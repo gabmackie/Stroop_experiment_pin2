@@ -1,7 +1,9 @@
 # pin_assessment2
 Second assessment from my programming in neuroimaging module. Contains the data, zip file of the original submission, and the code that's been improved based on their feedback.
 
-Below are the instructions I was given for the assessment.
+### *Below are the instructions I was given for the assessment.*
+
+&nbsp;
 
 -----------------------------------------------------------
 
